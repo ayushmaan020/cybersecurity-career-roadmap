@@ -64,15 +64,7 @@ This roadmap guide you to build a strong profile for Cybersecurity job roles and
 
 # 🧠 Learning Philosophy
 
-This roadmap focuses on:
-
-- Strong fundamentals
-- Practical learning
-- Hands-on labs
-- Real-world scenarios
-- Problem-solving mindset
-- Ethical hacking practices
-- Continuous learning
+This roadmap focuses on:- Strong fundamentals, Practical learning, Hands-on labs, Real-world scenarios, Problem-solving mindset, Ethical hacking practices, Continuous learning
 
 ---
 
