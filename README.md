@@ -14,7 +14,7 @@ Hi, I'm Ayushmaan Bhatt, a student of Information Security and pursuing a Bachel
 
 ## 📌 Table of Contents
 
-- [Introduction](#-about)
+- [Introduction](#-Introduction)
 - [Who Is This For?](#-who-is-this-for)
 - [Learning Philosophy](#-learning-philosophy)
 - [Roadmap Overview](#-roadmap-overview)
@@ -47,14 +47,6 @@ This roadmap guide you to build a strong profile for Cybersecurity job roles and
 
 ---
 
-
-# 📖 About
-
-This repository is designed to provide a structured and practical roadmap for learning Cybersecurity step-by-step.
-
-The main goal of this repository is to help students, beginners, and self-taught learners build strong fundamentals and gradually move toward advanced cybersecurity domains through hands-on practice and real-world learning.
-
----
 
 # 🎯 Who Is This For?
 
