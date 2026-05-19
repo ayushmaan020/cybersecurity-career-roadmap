@@ -72,14 +72,16 @@ This roadmap focuses on:- Strong fundamentals, Practical learning, Hands-on labs
 
 | Stage | Focus Area |
 |-------|-------------|
-| 01 | Networking Fundamentals |
-| 02 | Linux Fundamentals |
-| 03 | Programming Fundamentals |
-| 04 | Web Fundamentals |
-| 05 | Cybersecurity Fundamentals |
-| 06 | Penetration Testing |
-| 07 | Web Application Security |
-| 08 | Cloud Security |
+| 01 | Pre-requsites |
+| 02 | Networking Fundamentals |
+| 03 | Linux Fundamentals |
+| 04 | Programming Fundamentals |
+| 05 | Web Fundamentals |
+| 06 | Cybersecurity Fundamentals |
+| 07 | Choosing The Right Domain in Cybersecurity |
+| 07 | Penetration Testing |
+| 08 | Web Application Security |
+| 09 | Cloud Security |
 | 09 | SOC & Blue Teaming |
 | 10 | Malware Analysis |
 | 11 | Reverse Engineering |
