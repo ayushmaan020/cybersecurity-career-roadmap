@@ -13,7 +13,8 @@ Hi, I'm Ayushmaan Bhatt, a student of Information Security and pursuing a Bachel
 <br>
 
 ##  Introduction 
-Welcome to the Cybersecurity Carrer Roadmap where you can learn and enhance your Cybersecurity skills with a neviagted structure guided path, where you can learn from scratch, I espessialy 
+Welcome to the Cybersecurity Carrer Roadmap where you can learn and enhance your Cybersecurity skills with a neviagted structured path, Cybersecurity is a rapidly growing domain where you need to learn and adapt new technologies and attack methodology from observing real world attacks by adversaries, you can learn from scratch, I espessialy focous this roadmap on students from Non-IT Branch, There is nothhing to worry about any pre-requisite because I explain all mandatory pre-requsiite on pre-requsite section.
+This roadmap guide you to build a strong profile for Cybersecurity job roles and especialy I believe in self learning where you learn Cybersecurity without any money investment on expensive certification. So let us built some foundation knowledge (in pre-requsite section) beefore jumping on more specialized topics.
 
 
 
