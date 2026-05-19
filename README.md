@@ -2,6 +2,8 @@
 
 
 # 🛡️ Cybersecurity Career Roadmap
+> A complete roadmap to learn Cybersecurity from beginner to advanced level with curated resources, practical labs, tools, career guidance, and hands-on learning paths.
+---
 <br>
 <img width="1536" height="1024" alt="image png" src="https://github.com/user-attachments/assets/0e0db030-915b-430e-a2ab-314e63bcd886" />
 
