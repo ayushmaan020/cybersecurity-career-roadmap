@@ -1,4 +1,4 @@
-### We welcome community contributions, 🤝 Join the community and help improve this project.
+#### We welcome community contributions, 🤝 Join the community and help improve this project.
 
 # 🛡️ Cybersecurity Career Roadmap
 
