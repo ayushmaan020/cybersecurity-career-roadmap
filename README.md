@@ -12,18 +12,9 @@
 Hi, I'm Ayushmaan Bhatt, a student of Information Security and pursuing a Bachelor of Computer Applications (2023–2026). I created this repository to enhance my knowledge and help enthusiastic learners understand and explore the field of Information Security.
 <br>
 
-##  Introduction 
-Welcome to the Cybersecurity Career Roadmap, where you can learn and enhance your cybersecurity skills through a structured and guided learning path. Cybersecurity is a rapidly growing domain where you need to learn and adapt new technologies and attack methodology from observing real world attacks by adversaries, you can learn from scratch,
-This roadmap is specially designed for students from non-IT backgrounds who want to start their cybersecurity journey from scratch. There is nothing to worry about regarding prerequisites because all mandatory foundational concepts are explained in the prerequisite section.
-This roadmap guide you to build a strong profile for Cybersecurity job roles and especialy I believe in self learning where you learn Cybersecurity without any money investment on expensive certification. So, let’s build a strong foundation in the prerequisite section before moving toward more specialized cybersecurity topics.
-
-
-
----
-
 ## 📌 Table of Contents
 
-- [About](#-about)
+- [Introduction](#-about)
 - [Who Is This For?](#-who-is-this-for)
 - [Learning Philosophy](#-learning-philosophy)
 - [Roadmap Overview](#-roadmap-overview)
@@ -47,6 +38,15 @@ This roadmap guide you to build a strong profile for Cybersecurity job roles and
 - [License](#-license)
 
 ---
+##  Introduction 
+Welcome to the Cybersecurity Career Roadmap, where you can learn and enhance your cybersecurity skills through a structured and guided learning path. Cybersecurity is a rapidly growing domain where you need to learn and adapt new technologies and attack methodology from observing real world attacks by adversaries, you can learn from scratch,
+This roadmap is specially designed for students from non-IT backgrounds who want to start their cybersecurity journey from scratch. There is nothing to worry about regarding prerequisites because all mandatory foundational concepts are explained in the prerequisite section.
+This roadmap guide you to build a strong profile for Cybersecurity job roles and especialy I believe in self learning where you learn Cybersecurity without any money investment on expensive certification. So, let’s build a strong foundation in the prerequisite section before moving toward more specialized cybersecurity topics.
+
+
+
+---
+
 
 # 📖 About
 
